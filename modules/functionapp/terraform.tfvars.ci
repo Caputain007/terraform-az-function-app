@@ -1,5 +1,5 @@
 location="eastus2"
-location_short="frc"
+location_short="est2"
 client_name="test"
 environment="test"
 stack="ci"
